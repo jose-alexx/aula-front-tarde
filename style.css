@@ -1,0 +1,27 @@
+#main {
+    width: 600px;
+    margin: 40px auto;
+}
+
+#entrada {
+    margin-top: 40px;
+    text-align: center;
+}
+
+table {
+    width: 100%;
+    margin-top: 40px;
+    border-collapse: collapse;
+    background-color: rgb(236, 236, 236);
+}
+
+thead {
+    text-align: left;
+    color: aliceblue;
+    background-color: rgb(53, 53, 53);
+}
+
+th, td {
+    padding: 20px;
+}
+
